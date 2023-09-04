@@ -1,0 +1,11 @@
+h1 {
+    background-color: "red";
+    font-size: 24;
+    text-align: Center;
+    margin: 0;
+    padding: 48px;
+  }
+.TodoCounter span{
+    font-weight: bold;
+    
+}
